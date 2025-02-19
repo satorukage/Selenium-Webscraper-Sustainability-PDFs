@@ -1,6 +1,3 @@
-# Selenium-Webscraper-Sustainability-PDFs
-
-
 # Sustainability Reports Web Scraper
 
 ## Overview
