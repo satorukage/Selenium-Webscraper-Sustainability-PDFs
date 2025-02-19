@@ -24,7 +24,7 @@ Ensure you have the following installed on your system:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/sustainability-pdf-scraper.git
+   git clone https://github.com/satorukage/Sustainability-Reports-Web-Scraper.git
    cd sustainability-pdf-scraper
    ```
 
